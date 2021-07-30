@@ -8,7 +8,7 @@ import(
 )
 const(
 	prefix = "go!"
-	token = "ODcwNjA2MzM1Mjg3Mzg2MTIy.YQPNVQ.GWfF2yehUN8oKUtWSVEiM7DlA7s"
+	token = "TOKEN"
 )
 func main() {
 	fmt.Println("Proje Başarıyla başlatıldı.")
